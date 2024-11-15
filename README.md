@@ -1,0 +1,1 @@
+Collection of simple scripts for Palo Alto Networks firewalls
